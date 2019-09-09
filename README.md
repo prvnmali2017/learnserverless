@@ -38,3 +38,4 @@
 5. Gardener Cloud (Universal Kubernetes at Scale)
 6. GitKube (https://github.com/hasura/gitkube) 
 7. https://github.com/helm/chart-testing (Helm chart testing and linting)
+8. https://github.com/GoogleContainerTools/kaniko
