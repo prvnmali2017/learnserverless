@@ -37,5 +37,14 @@
 7. https://github.com/helm/chart-testing (Helm chart testing and linting)
 8. https://github.com/GoogleContainerTools/kaniko
 9. Packer - Build Automated Machine Images
+10. https://kube-score.com/
+11. https://github.com/kinvolk/kube-spawn
+12. https://kubepack.com/
+13. https://comcast.github.io/kuberhealthy/
+14. https://github.com/kubernetes-sigs/kubespray
+15. https://github.com/kubicorn/kubicorn
+16. https://github.com/nirmata/kyverno
+17. https://kyverno.io
+18. https://github.com/kubernetes/kube-deploy
 
 
