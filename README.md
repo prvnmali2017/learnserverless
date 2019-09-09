@@ -35,3 +35,6 @@
 2. spinnaker
 3. podman
 4. spartakus (Anonymouse Usage collector)
+5. Gardener Cloud (Universal Kubernetes at Scale)
+6. GitKube (https://github.com/hasura/gitkube) 
+7. https://github.com/helm/chart-testing (Helm chart testing and linting)
