@@ -49,5 +49,6 @@
 19. kube-monkey
 20. https://kubeformation.sh
 21. Kong
+22. Flux CD
 
 
