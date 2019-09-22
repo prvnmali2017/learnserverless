@@ -51,5 +51,4 @@
 21. Kong
 22. Flux CD
 23. https://k14s.io
-
-
+24. Kubeman (https://github.com/walmartlabs/kubeman)
