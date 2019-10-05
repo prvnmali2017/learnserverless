@@ -59,4 +59,13 @@
 2. Envoy
 3. Istio
 4. Conduit
+5. Kong
+6. AWS APPMESH
+
+
+## GITOPS
+1. Flux CD
+2. Argo CD
+3. Go CD
+4. Jenkins X
 
