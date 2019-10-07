@@ -1,15 +1,8 @@
-## LearnServerless
-### Learnserverless [All Courseware to learn and demonstrate Serverless]
-
-
 ![Learn Serverless](images/Snip20190901_7.png)
 
+## SERVERLESS
 
-### Topics will be explained on All Serverless Tools and Build Simple Applications using it. 
-
-#### SERVERLESS
-
-## Installable
+### Installable
 
 1. Virtual Kubelet
 2. Kubeless
@@ -27,7 +20,7 @@
 14. Podman and its related tools
 
 
-## Kubernetes Related (https://github.com/kubernetes-incubator)
+### Kubernetes Related (https://github.com/kubernetes-incubator)
 
 1. bootkube
 2. spinnaker
