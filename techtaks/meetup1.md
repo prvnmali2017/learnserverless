@@ -18,3 +18,6 @@ If you'd like to speak please contact Matt and David with a presentation topic, 
 (As always, please update your RSVP as your availability changes. All venues have space restrictions for the safety and comfort of Infracoders.)
 
 Please contact Matt (@geekle) or David (@dlutzy) if you'd like to present a future topic relevant to the group or host a meetup at your office.
+
+
+ADDED details
