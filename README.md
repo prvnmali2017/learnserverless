@@ -47,6 +47,7 @@
 23. https://k14s.io
 24. Kubeman (https://github.com/walmartlabs/kubeman)
 25. Keel - https://github.com/keel-hq/keel Kubernetes operator to automate helm
+26. Jaeger Tracing
 
 ## SERVICE MESH
 
