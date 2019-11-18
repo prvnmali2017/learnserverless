@@ -65,3 +65,6 @@
 3. Go CD
 4. Jenkins X
 
+## Kubernetes Plugins
+
+1. https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md
