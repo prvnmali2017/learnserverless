@@ -78,3 +78,12 @@
 ## Kubernetes Plugins
 
 1. https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md
+
+## KUBERNETES MACHINE LEARNING
+Kafka, AWS, Flink, Kubernetes and ML/AI at scale.
+FfDL - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
+kubeflow - Machine Learning Toolkit for Kubernetes.
+mxnet-operator - Tools for ML/MXNet on Kubernetes.
+Polyaxon - An open source platform for reproducible machine learning and deep learning on kubernetes
+seldon-core - Open source framework for deploying machine learning models on Kubernetes
+TensorFlow k8s
