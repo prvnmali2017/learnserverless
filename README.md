@@ -1,5 +1,15 @@
 ![Learn Serverless](images/Snip20190901_7.png)
 
+
+## Top Things to Focus on
+
+1. Sumo Logic
+2. Splunk
+3. Kinesis
+4. AWS EKS - Aggregate AWS application logging to on-premise splunk using kinesis and lambda. Proof of concept EKS implementation.
+5. Github, Buildkite, Sumologic, NewRelic and Artifactory
+
+
 ## SERVERLESS
 
 ### Installable
