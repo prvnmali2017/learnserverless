@@ -79,7 +79,7 @@
 
 1. https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md
 
-## KUBERNETES MACHINE LEARNING
+## KUBERNETES For DaTASCIENCE
 Kafka, AWS, Flink, Kubernetes and ML/AI at scale.
 FfDL - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
 kubeflow - Machine Learning Toolkit for Kubernetes.
