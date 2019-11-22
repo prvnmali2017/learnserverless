@@ -3,12 +3,28 @@
 
 ## Top Things to Focus on
 
-1. Sumo Logic
+1. Sumo Logic 
+   * [Sumo Login Training] (https://www.youtube.com/watch?v=QMIHnSWUGZA)
 2. Splunk
-3. Kinesis
-4. AWS EKS - Aggregate AWS application logging to on-premise splunk using kinesis and lambda. Proof of concept EKS implementation.
-5. Github, Buildkite, Sumologic, NewRelic and Artifactory
+   * [Splunk] (https://www.youtube.com/watch?v=6lX4DOd1T-s) and (https://linuxacademy.com/course/splunk-deep-dive/)
 
+5. AWS EKS - https://linuxacademy.com/course/amazon-eks-deep-dive/
+6. Kubernetes Materials - 
+   * [AIOps Essentials Autoscaling Kubernetes with Prometheus Metrics] (https://linuxacademy.com/course/using-machine-learning-to-scale-kubernetes-clusters)
+   * [Kubernetes Security] (https://linuxacademy.com/course/kubernetes-security-advanced-concepts)
+   * [Microservice application in k8s] (https://linuxacademy.com/course/learn-microservices-by-doing)
+   * [Monitoring K8s with Prom] (https://linuxacademy.com/course/kubernetes-and-prometheus)
+   * [Helm Deep Dive] (https://linuxacademy.com/course/helm-deep-dive-part-1)
+   * [CICD] (https://linuxacademy.com/course/implementing-a-full-ci-cd-pipeline)
+   * [Kubernetes Advanced Security Concepts] (https://linuxacademy.com/course/kubernetes-security-advanced-concepts)
+    
+7.  Github, 
+8.  Buildkite 
+  * [Training] (https://buildkite.com/screencasts)
+9.  NewRelic 
+10. Artifactory
+
+Istio, Knative, AWS AppMesh, HashiCorp Consul - https://www.youtube.com/playlist?list=PLF3s2WICJlqMTakBhB7fv78wgdoUQP5V_
 
 ## SERVERLESS
 
