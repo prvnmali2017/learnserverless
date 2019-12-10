@@ -6,7 +6,7 @@
 1. Sumo Logic 
    * [Sumo Login Training] (https://www.youtube.com/watch?v=QMIHnSWUGZA)
 2. Splunk
-   * [Splunk] (https://www.youtube.com/watch?v=6lX4DOd1T-s) and (https://linuxacademy.com/course/splunk-deep-dive/)
+   * [Splunk] (https://www.youtube.com/watch?v=6lX4DOd1T-s) and [Splunk Deep Dive] (https://linuxacademy.com/course/splunk-deep-dive/)
 
 5. AWS EKS - https://linuxacademy.com/course/amazon-eks-deep-dive/
 6. Kubernetes Materials - 
