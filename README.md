@@ -24,6 +24,7 @@
 9.  NewRelic 
 10. Artifactory
 11. * [Helm3] (https://www.youtube.com/watch?v=afCRt5Gd6Rk)
+12. * [Tekton Pipelines] (https://github.com/tektoncd/pipeline)
 
 Istio, Knative, AWS AppMesh, HashiCorp Consul - https://www.youtube.com/playlist?list=PLF3s2WICJlqMTakBhB7fv78wgdoUQP5V_
 
